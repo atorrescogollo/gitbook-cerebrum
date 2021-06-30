@@ -47,3 +47,5 @@ Se trata de eliminar el ruido del dataset y quedarnos con la información más r
 
 * Reduce una gráfica de 3D a 2D ignorando la dimensión que menos varía y, por tanto, menos relevancia tiene.
 
+
+
