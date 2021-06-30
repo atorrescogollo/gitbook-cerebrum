@@ -7,7 +7,8 @@
 ### 1. Ejecutar el playbook con `ANSIBLE_KEEP_REMOTE_FILES`
 
 ```bash
-ANSIBLE_KEEP_REMOTE_FILES=1 ansible-playbook playbook.yml -vvvv
+export ANSIBLE_KEEP_REMOTE_FILES=1
+ansible-playbook playbook.yml -vvvv
 ```
 
 Buscamos un fichero parecido a esto:  
